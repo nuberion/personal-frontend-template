@@ -1,8 +1,7 @@
 {
   "name": "personal-frontend-template",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Personal front end project template",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +10,7 @@
     "url": "git+https://github.com/nuberion/personal-frontend-template.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Johann Grabner",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nuberion/personal-frontend-template/issues"
